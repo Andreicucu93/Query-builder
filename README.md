@@ -1,3 +1,7 @@
+![GitHub commit activity](https://img.shields.io/github/commit-activity/:interval/Andreicucu93/https%3A%2F%2Fgithub.com%2FAndreicucu93%2FQuery-builder)
+
+
+
 I had the need to find a way to generate queries easier based on my input.
 
 This app was designed to work best in retail, but can be easily customised.
